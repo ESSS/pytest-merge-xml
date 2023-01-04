@@ -22,7 +22,7 @@ setuptools.setup(
         "Programming Language :: Python :: 3.7",
         "Framework :: Pytest",
     ],
-    description="Pytest plugin to update test results on a jUnit XML from previous run.",
+    description="Pytest plugin to update test results on a test report from previous run.",
     extras_require=extras_require,
     install_requires=requirements,
     license="MIT license",
